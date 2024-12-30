@@ -1,12 +1,552 @@
 #EXTM3U
 
-#EXTINF:-1,Pornhub
-#CATEGORY:adult 
-#LOGO:https://i.ibb.co.com/98WRLDg/20241229-162204.png  
-https://live.redtraffic.net/brunette.m3u8
+#EXTINF:-1,BTV
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Channel i
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,ATN Bangla
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,NTV
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Boishakhi TV
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Zee Bangla
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Jalsha
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Colors Bangla
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sangeet Bangla
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Aakash Aath
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,NDTV
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,ABP News
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Times Now
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Zee News
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,CNN News18
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Somoy TV
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Jamuna TV
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,DBC News
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Ekattor TV
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Bangla Vision
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,BTV
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Channel i
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,ATN Bangla
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,NTV
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Boishakhi TV
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Zee Bangla
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Jalsha
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Colors Bangla
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sangeet Bangla
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Aakash Aath
+#CATEGORY:bangla
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Zee Cinema
+#CATEGORY:movies
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Gold
+#CATEGORY:movies
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Colors Cineplex
+#CATEGORY:movies
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,SET Max
+#CATEGORY:movies
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,ETV Cinema
+#CATEGORY:movies
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Somoy TV
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Jamuna TV
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,DBC News
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Ekattor TV
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Bangla Vision
+#CATEGORY:news
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sony Mix
+#CATEGORY:music
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Zing
+#CATEGORY:music
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,MTV India
+#CATEGORY:music
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,9XM
+#CATEGORY:music
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,B4U Music
+#CATEGORY:music
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Sports 1
+#CATEGORY:sports
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Sports 2
+#CATEGORY:sports
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,ESPN India
+#CATEGORY:sports
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sony Ten 1
+#CATEGORY:sports
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Sports Bangla
+#CATEGORY:sports
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Nickelodeon
+#CATEGORY:kids
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Disney Channel
+#CATEGORY:kids
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Pogo TV
+#CATEGORY:kids
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Cartoon Network
+#CATEGORY:kids
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Hungama TV
+#CATEGORY:kids
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Peace TV
+#CATEGORY:religion
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Astha TV
+#CATEGORY:religion
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sanskar TV
+#CATEGORY:religion
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,DD Bharti
+#CATEGORY:religion
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Quran TV
+#CATEGORY:religion
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Plus
+#CATEGORY:drama
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Zee TV
+#CATEGORY:drama
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Colors TV
+#CATEGORY:drama
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sony TV
+#CATEGORY:drama
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Rishtey
+#CATEGORY:drama
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sony SAB
+#CATEGORY:comedy
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Comedy Central
+#CATEGORY:comedy
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Big Magic
+#CATEGORY:comedy
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Humor TV
+#CATEGORY:comedy
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Bharat
+#CATEGORY:comedy
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Zee Anmol
+#CATEGORY:hindi
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sony Entertainment
+#CATEGORY:hindi
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sahara One
+#CATEGORY:hindi
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Star Utsav
+#CATEGORY:hindi
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Colors Rishtey
+#CATEGORY:hindi
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Sun TV
+#CATEGORY:regional
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Kalaignar TV
+#CATEGORY:regional
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Surya TV
+#CATEGORY:regional
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Udaya TV
+#CATEGORY:regional
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,ETV Telugu
+#CATEGORY:regional
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,National Geographic
+#CATEGORY:educational
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Discovery Channel
+#CATEGORY:educational
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Animal Planet
+#CATEGORY:educational
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,History TV18
+#CATEGORY:educational
+#LOGO:logo.link
+str.link
+
+#EXTINF:-1,Nat Geo Wild
+#CATEGORY:educational
+#LOGO:logo.link
+str.link
 
 
-#EXTINF:-1,Xhamster
-#CATEGORY:adult 
-#LOGO:https://i.ibb.co.com/98WRLDg/20241229-162204.png
-https://live.net/brunette.m3u8
+#EXTINF:-1,Teen Girls
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.redtraffic.net/teen.m3u8
+
+#EXTINF:-1,Live Cams
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1, Big Milf
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/milf.m3u8
+
+#EXTINF:-1,Big Dick
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1,Big Tits
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1,Fetish
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1,Pornstar
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1,Big Ass
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1,Interracial
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1,Latina
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/latina.m3u8
+
+#EXTINF:-1,POV
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/pov.m3u8
+
+#EXTINF:-1,Blowjob
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1,Hardcore
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1,Cuckold
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1,Threesome
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1,Russian
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/russian.m3u8
+
+#EXTINF:-1,Lesbian
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1,Rough
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/rough.m3u8
+
+#EXTINF:-1,Gangbang
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1,Anal
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/anal.m3u8
+
+#EXTINF:-1,Compilation
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1,Brunette
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1,Blonde
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1,Gay
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/gay.m3u8
+
+#EXTINF:-1,Asian
+#CATEGORY:adult
+#LOGO:https://files.adultiptv.net/adultiptvnet.jpg
+https://live.adultiptv.net/asian.m3u8
